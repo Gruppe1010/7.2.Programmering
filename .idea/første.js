@@ -25,7 +25,7 @@ function myFunction1(item) {
   document.getElementById("demo").innerHTML += item + "<br>";
 }
 
-
+// HAAAY
 
 
 // vi laver et array, som vi vil skrive ud via en function
